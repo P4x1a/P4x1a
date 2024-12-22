@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e da programação, sem
 Aqui estão alguns projetos nos quais trabalhei recentemente:
 
 - [Projeto 1](https://github.com/P4x1a/portscan)**: Um portscan que desenvolvi baseando-me no curso da Solyd.
-- [Projeto 2](https://github.com/P4x1a/update-Kali-Linux)**: This project is designed to simplify the maintenance and update process of the Kali Linux system using a Bash script.
+- [Projeto 2](https://github.com/P4x1a/update-Kali-Linux)**: Este projeto foi criado para simplificar o processo de manutenção e atualização do sistema Kali Linux usando um script Bash.
 
 ---
 
