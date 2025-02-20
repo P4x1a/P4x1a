@@ -17,6 +17,8 @@ Aqui estão alguns projetos nos quais trabalhei recentemente:
 - [Projeto 1](https://github.com/P4x1a/portscan)**: Um portscan que desenvolvi baseando-me no curso da Solyd.
 - [Projeto 2](https://github.com/P4x1a/update-Kali-Linux)**: Este projeto foi criado para simplificar o processo de manutenção e atualização do sistema Kali Linux usando um script Bash.
 - [Projeto 3](https://github.com/P4x1a/Network-Discovery-Script)**: Este script foi desenvolvido para descobrir hosts ativos em uma sub-rede específica usando o comando ping para verificar a conectividade com cada endereço IP na sub-rede.
+- [Projeto 4](https://github.com/P4x1a/PortSniffer)**: O script é útil para análise de segurança e testes de penetração, facilitando a descoberta de subdomínios e a identificação de serviços acessíveis em uma rede.
+- [Projeto 5](https://github.com/P4x1a/PostExploDragon)**: PostExploDragon.ps1 é um script de pós-exploração em PowerShell projetado para coletar informações detalhadas de um sistema comprometido e gerar um relatório em formato CSV.
 
 ---
 
